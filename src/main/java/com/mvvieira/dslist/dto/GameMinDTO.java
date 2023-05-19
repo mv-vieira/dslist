@@ -34,7 +34,7 @@ public class GameMinDTO {
         return title;
     }
 
-    public Integer getYear() {
+    public Integer getGameYear() {
         return year;
     }
 
@@ -54,7 +54,7 @@ public class GameMinDTO {
         this.title = title;
     }
 
-    public void setYear(Integer year) {
+    public void setGameYear(Integer year) {
         this.year = year;
     }
 
