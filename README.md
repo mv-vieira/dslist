@@ -1,5 +1,7 @@
 # DSLIST
 
+Link deploy Railway para requisições: https://dslist-production-mv-vieira.up.railway.app/
+
 ## Conteúdos aprendidos durante o projeto:
 
 - Sistemas web e recursos
